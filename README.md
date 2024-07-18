@@ -31,5 +31,3 @@ I'm always open to connecting with fellow data enthusiasts and professionals. Le
 I'm excited about the possibility of collaborating on innovative projects. If you have an idea or a project in mind, don't hesitate to reach out!
 
 Thank you for visiting my profile. Happy coding! 😊
-[![GitHub stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=%24.total&url=https%3A%2F%2Fapi.github-username.vercel.app%2Fstats)](https://github.com/wandiramadan7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wandiramadan7&layout=compact&theme=radical)
