@@ -23,8 +23,8 @@ Feel free to explore my repositories to see my work in action!
 
 I'm always open to connecting with fellow data enthusiasts and professionals. Let's get in touch!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/wandi-ramadan/)
-- **Email**: [your.email@example.com](wandiramadan7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandi-ramadan/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wandiramadan7@gmail.com)
 
 ## 🚀 Let's Collaborate
 
