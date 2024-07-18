@@ -12,11 +12,6 @@ I am deeply fascinated by the world of data and its potential to drive meaningfu
 - Deep learning frameworks such as TensorFlow and PyTorch.
 - Effective data visualization methods to better communicate insights.
 
-## 👯 I’m looking to collaborate on
-- Data-driven projects that require machine learning and NLP expertise.
-- Open-source projects focused on data science and analytics.
-- Innovative solutions to real-world problems through data.
-
 Feel free to explore my repositories to see my work in action!
 
 ## 🌐 Connect with Me
